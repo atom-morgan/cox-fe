@@ -1,6 +1,11 @@
-# CoxFe
+# Cox Coding Assignment (FE)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
+
+## Setup
+
+- `npm install`
+- `ng serve`
 
 ## Development server
 
